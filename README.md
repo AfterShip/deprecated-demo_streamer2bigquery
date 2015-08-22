@@ -1,5 +1,4 @@
-# demo_streamer2bigquery [![Build Status](https://secure.travis-ci.org/AfterShip/demo_streamer2bigquery.png?branch=master)](http://travis-ci.org/AfterShip/demo_streamer2bigquery)
-
+# demo_streamer2bigquery 
 
 
 ## Getting Started
